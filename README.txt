@@ -1,4 +1,4 @@
 ﻿Hello, Git
 Hello, again
 Updated with new info
-Updated from browser
+Updated from the browser
